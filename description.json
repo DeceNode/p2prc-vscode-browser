@@ -1,6 +1,6 @@
 {
     "Name":"VS Code",
     "Category":"Development Tool",
-    "About":"Visual Studio Code is a source-code editor that can be used with a variety of programming languages.",
+    "About":"Visual Studio Code is a free and open-source code editor developed by Microsoft. It is designed to be a highly customizable and extensible platform for developers to write and debug code, whether they are building applications in a variety of programming languages, writing scripts or other file formats.",
     "Logo":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
 }
